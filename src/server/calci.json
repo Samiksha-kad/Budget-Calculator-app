@@ -1,0 +1,100 @@
+{
+  "calci": [
+    {
+      "password": "$2a$10$pz/m3SQAg9t/0jnkDKGwHeHBjGMQIlLJ9CFZuBiFpMrvQNWB4Pqa6",
+      "email": "john@gmail.com",
+      "fname": "John",
+      "lname": "Doe",
+      "username": "John1",
+      "balance": 300,
+      "totalbudget": 1000,
+      "budget": [
+        {
+          "title": "fgfg",
+          "amount": 500
+        },
+        {
+          "title": "rtrt",
+          "amount": 100
+        },
+        {
+          "title": "wewe",
+          "amount": 100
+        }
+      ],
+      "id": 1
+    },
+    {
+      "password": "$2a$10$vrDNPHqVLoihUGaxoZUccuDiOD4SvX2W0FnTq3g6VjktIHvXRL/ua",
+      "email": "tejal@gmail.com",
+      "fname": "tejal ",
+      "lname": "supe",
+      "username": "tejal12",
+      "balance": 788,
+      "totalbudget": 2000,
+      "budget": [
+        {
+          "title": "wwew",
+          "amount": 1212
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fname": "Samiksha",
+      "lname": "Kad",
+      "uername": "112964430466712790896",
+      "email": "kadsamiksha347@gmail.com",
+      "password": "socialLogin",
+      "totalbudget": 22600,
+      "balance": 20700,
+      "budget": [
+        {
+          "title": "sasa",
+          "amount": 1000
+        },
+        {
+          "title": "mmm",
+          "amount": 900
+        }
+      ],
+      "id": 3
+    },
+    {
+      "fname": "Akansha",
+      "lname": "Kad",
+      "uername": "113544820296800572852",
+      "email": "kadakansha@gmail.com",
+      "password": "socialLogin",
+      "totalbudget": 5000,
+      "balance": 4200,
+      "budget": [
+        {
+          "title": "jkjk",
+          "amount": 800
+        }
+      ],
+      "id": 4
+    },
+    {
+      "fname": "Jayashree",
+      "lname": "Shinde",
+      "uername": "115210272461745751318",
+      "email": "shindejayashree1968@gmail.com",
+      "password": "socialLogin",
+      "totalbudget": 10000,
+      "balance": 8000,
+      "budget": [
+        {
+          "title": "sa",
+          "amount": 1000
+        },
+        {
+          "title": "sss",
+          "amount": 1000
+        }
+      ],
+      "id": 5
+    }
+  ]
+}

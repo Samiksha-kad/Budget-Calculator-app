@@ -1,0 +1,78 @@
+.sidebars{
+    text-decoration: none;
+    text-align: center;
+    color:black;
+    font-size:1.2rem;
+    background-color: rgb(233, 233, 248);
+    width:300px;
+    height:30px;
+    padding:5px;
+    border-radius: 20px;
+    
+}
+.sidebars:hover{
+    background-color: rgb(129, 129, 245);
+    color:white;
+    font-weight: bold;
+    width:300px;
+    height:30px;
+    padding:5px;
+    border-radius: 20px;
+
+}
+.head{
+    margin-top:25px;
+    margin-left: 15px;
+}
+.big{
+    margin-top: 5px;
+    height:100px;
+
+}
+.logout{
+    padding: 6px;
+    border-radius: 20px;
+    width: 8%;
+    background-image: linear-gradient(to right,red, orange);
+    color: white;
+    font-weight:bold;
+    box-shadow:  8px 8px rgba(0, 0, 255, .2);
+}
+.big1{
+    margin-top: 5px;
+    height: 100px;
+    margin-left: 46px;
+}
+.number{
+    margin-left:50px;
+    color:white;
+    font-size:1.6rem;
+    margin-top: 0px;
+    
+}
+.reve{
+    font-size:1.2rem;
+    margin-top: -10px;
+    color: white;
+    text-align: center;
+    
+}
+.pro75{
+    margin-top: -35px;
+    margin-left: -64px;
+    width: 380px;
+    height: 206px;
+}
+.visits85{
+    width: 160px;
+    
+}
+.sales{
+    height: 174px;
+    width: 146px;
+    margin-left: 34px;
+}
+.users1{
+    height:400px;
+    width:350px;
+}
